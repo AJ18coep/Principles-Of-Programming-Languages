@@ -1,8 +1,8 @@
 # PPL-Lab
 List Of Experiments.
 0. Helloworld Program
-1. Assignment 1
-2. Assignment 2
+1. Assignment 1(Study OF GIMPLE, .cfg dumps)
+2. Assignment 2(Study of .i, .o, .s files)
 3. Assignment 3(CFG)
 4. Assignment 4(disassembling and memory layout diagrams)
 5. Assignment 5(Stack Smashing)
